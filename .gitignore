@@ -1,6 +1,8 @@
 *.swp
 *.pyc
 build/
+.idea/
+.vscode/
 
 # KiCAD files
 *.000
